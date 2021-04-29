@@ -28,7 +28,7 @@
   "lacImportArgs": "<zdroj> [argumenty]",
   "lacUnknownSource": "Neznámý typ databáze, podívejte se na wiki!",
   "lacImportFailed": "Nelze provést import databáze, zkontrolujte záznam!",
-  "sessionContinue": "Poslední přihlášení pokračuje, je staré %sec% sekund.",
+  "sessionContinue": "Poslední přihlášení pokračuje, je staré %sec% sekund
   "messageLogin": "Přihlaste se příkazem: /login <heslo>",
   "messageRegister": "Zaregistrujte se příkazem: /register <heslo>",
   "errorRefreshProfile": "Váš účet byl modifikován třetí stranou, přihlaste se znovu!",
